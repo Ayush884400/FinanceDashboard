@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img src="finance-dashboard.png" alt="Finance Dashboard Preview" width="800">
+  <img src="C:\Users\ayush\Pictures\Screenshots" alt="Finance Dashboard Preview" width="800">
 </div>
 
 <br>
