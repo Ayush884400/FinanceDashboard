@@ -1,7 +1,7 @@
 <h1 align="center">💰 Sales Dashboard</h1>
 
 <p align="center">
-  An interactive Power BI dashboard analysing financial performance, revenue trends, expenses, and key business metrics.
+  An interactive Power BI dashboard analysing sales performance, revenue trends, expenses, and key business metrics.
 </p>
 
 <br>
@@ -27,6 +27,8 @@ The project demonstrates data preparation, data modelling, DAX calculations, and
     View Power BI Dashboard
   </a>
 </p>
+
+<a href="">Download Project</a>
 
 <h2>🛠️ Tools Used</h2>
 
