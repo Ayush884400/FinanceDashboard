@@ -33,7 +33,7 @@ The project demonstrates data preparation, data modelling, DAX calculations, and
 <h2>Data modeling</h2>
 
 <div align="center">
-  <img src="Screenshot 2026-08-12 163529.png" alt="Finance Dashboard Preview" width="800">
+  <img src="Screenshot 2026-08-12 164211.png" alt="Finance Dashboard Preview" width="800">
 </div>
 
 <p>
