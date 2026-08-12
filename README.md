@@ -20,6 +20,15 @@ This dashboard was developed using Power BI to analyse sales data and provide cl
 The project demonstrates data preparation, data modelling, DAX calculations, and interactive visualisations to transform financial data into actionable business insights.
 </p>
 
+<h2>Cleaning data</h2>
+
+<div align="center">
+  <img src="Screenshot 2026-06-17 204338.png" alt="Finance Dashboard Preview" width="800">
+</div>
+<p>
+  I cleaned and transformed the data to improve its accuracy and consistency, including correcting data types, formatting dates into a standard format, and converting monetary values into the appropriate currency format. I also removed inconsistencies and prepared the dataset for further analysis and visualisation.
+</p>
+
 <h2>🔗 View Dashboard</h2>
 
 <p>
